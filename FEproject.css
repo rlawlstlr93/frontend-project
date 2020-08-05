@@ -1,0 +1,59 @@
+html {
+    background-image: url("nature.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    background-size: 50%;
+    border: 10px solid black;
+    height: 100%;
+    
+  }
+  h1 {
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+    text-align: left;
+    text-indent: 50px;
+    text-transform: lowercase;
+    color: lightgoldenrodyellow;
+  }
+
+  h2{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+    text-align: left;
+    text-indent: 50px;
+    text-transform: lowercase;
+    color: lightblue;
+
+  }
+  body {
+    background-color: darkgrey;
+    width: 1250px;
+    margin: 0 auto;
+    border: 10px solid red;
+  }
+
+  .button {
+      background-color: lightgreen;
+      width: 500px;
+      height: 60px;
+  }
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  margin: auto;
+  }
+
+#result {
+  height: 100%;
+  width: 50%;
+  text-align: center;
+}
